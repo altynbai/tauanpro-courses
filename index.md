@@ -1,4 +1,4 @@
-# Kubernetes Foundation Course
+# Kubernetes Foundations Course
 
 ## Как проводится курс?
 
@@ -33,5 +33,5 @@
 - Role based access control (RBAC)
 - API Kubernetes
 
-## Регистрация на курс Kubernetes Foundation
+## Регистрация на курс Kubernetes Foundations
 **[Написать на WhatsApp](https://wa.me/77019660091?text=Добрый%20день!%20Я%20хотел%20зарегистрироваться%20на%20курс%20Kubernetes)**
