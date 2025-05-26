@@ -1,12 +1,12 @@
 # Kubernetes Foundation Course
 
-## How does this Kubernetes course work?
+## Как проводится этот курс?
 
-### This is a full-time, 2 days course on learning and mastering Kubernetes.
+### Это двухдневный интенсивный курс по изучению Kubernetes
 
 **О курсе:**
-
-- Onsite курс с опытным инструктором
+- Курс будет проходит в субботу и воскресенье с 10.00 по 17.00
+- Onsite курс с опытным инструктором - Айдос Тауанов https://www.linkedin.com/in/altynbai/
 - 40% теории и 60% практические задачи
 - Небольшие группы - вы сможете спросить любой вопрос и углубиться
 - Курс подходит для системных администраторов, DevOps инженерам и Техническим менеджерам
