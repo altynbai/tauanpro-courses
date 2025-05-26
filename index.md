@@ -34,4 +34,4 @@
 - API Kubernetes
 
 ## Регистрация на курс Kubernetes Foundation
-**[Написать на WhatsApp](https://wa.me/77019660091)**
+**[Написать на WhatsApp](https://wa.me/77019660091?text=Добрый%20день!%20Я%20хотел%20зарегистрироваться%20на%20курс%20Kubernetes)**
